@@ -1,0 +1,30 @@
+body {
+  background-image: url('https://i.imgur.com/HB36mUu.jpg');
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  }
+
+h1 {
+  color: #22C6C7;
+}
+
+p {
+  color: #22C6C7;
+}
+
+#input {
+  padding: 20px;
+  border-radius: 10px;
+}
+
+#ask-button {
+  padding: 20px;
+  border-radius: 10px;
+  color: #9C34A8;
+  opacity: 0.6;
+}
+
+#ask-button:hover {
+  opacity: 1;
+}
